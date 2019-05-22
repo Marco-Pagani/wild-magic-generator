@@ -1,5 +1,5 @@
-0001 ½ of caster's body turns to stone
-0002 ½ of caster's body turns to sodium, the other ½ turns to ice
+0001 1/2 of caster's body turns to stone
+0002 1/2 of caster's body turns to sodium, the other 1/2 turns to ice
 0003 random magic item within 30' of caster explodes
 0004 random normal item within 30' of caster shrinks by 90%
 0005 metal statuettes fall to the ground near the caster
@@ -65,7 +65,7 @@
 0065 All caster's attribute scores rise to equal his best score 
 0066 All caster's attributes drop to 3
 0067 All caster's clothing not currently worn grows to 2X its size 
-0068 All caster's clothing not currently worn shrinks to ½ its size 
+0068 All caster's clothing not currently worn shrinks to 1/2 its size 
 0069 All caster's equipment turns to platinum
 0070 All caster's gems become enchanted with Continual Light
 0071 All caster's gold pieces turn to teeth 
@@ -206,7 +206,7 @@
 0206 Any potions carried by caster become poisonous
 0207 Any potions carried by caster carry the intended spell effect
 0208 Any resurrections thus far used on caster are negated
-0209 Any rings worn by caster shrink in diameter by ½
+0209 Any rings worn by caster shrink in diameter by 1/2
 0210 Any small item caster needs is 30% likely to be in his pocket 
 0211 Any water carried by caster afflicts its imbiber with dysentery 
 0212 Any water carried by caster becomes a free-willed elemental
@@ -326,8 +326,8 @@
 0326 Caster and allies are teleported d6 miles in random direction 
 0327 Caster and allies are Turned as Undead for d6 rounds each 
 0328 Caster and allies cannot harm target or allies for d4 rounds 
-0329 Caster and allies lose ½ their hit points
-0330 Caster and allies regain ½ their hit points lost
+0329 Caster and allies lose 1/2 their hit points
+0330 Caster and allies regain 1/2 their hit points lost
 0331 Caster and ally swap personae; ally thinks he is the caster
 0332 Caster and alternate Prime Material counterpart exchange places
 0333 Caster and familiar exchange places
@@ -388,7 +388,7 @@
 0388 Caster appears, with knife in hand, behind the nearest king
 0389 Caster assumes the aircraft "crash position"
 0390 Caster attracts all Undead within 1 mile of him 
-0391 Caster attracts lightning and electricity (Save at ½) 
+0391 Caster attracts lightning and electricity (Save at 1/2) 
 0392 Caster attracts maggots, lice, and rot grubs
 0393 Caster attracts moths like a flame
 0394 Caster attracts moths like a flame whenever he speaks
@@ -557,7 +557,7 @@
 0557 Caster can kill with a touch but is 80% likely to die as well 
 0558 Caster can make his spells function without visible effect 
 0559 Caster can make his voice issue from some place nearby 
-0560 Caster can memorize spells in ½ the normal required time 
+0560 Caster can memorize spells in 1/2 the normal required time 
 0561 Caster can mimic animal noises with remarkable skill
 0562 Caster can move 3X normal speed when naked and unencumbered
 0563 Caster can never teach his spells to anyone else
@@ -855,7 +855,7 @@
 0855 Caster experiences vertigo whenever he looks at the moon
 0856 Caster explodes and dies (Save vs Death to prevent explosion) 
 0857 Caster explodes as a Fireball of Hit Dice equal to 2x his Level 
-0858 Caster explodes permanently when hit points fall to ½ total 
+0858 Caster explodes permanently when hit points fall to 1/2 total 
 0859 Caster explodes under every Full Moon; reforms at dawn 
 0860 Caster explodes; reforms 2d20 turns later unharmed
 0861 Caster exudes chlorine gas whenever he casts a spell
@@ -994,7 +994,7 @@
 0994 Caster grabs his ankles and can't let go until tomorrow 
 0995 Caster greatly desires to cross the nearest stream or river 
 0996 Caster growls like a lion whenever he is upset
-0997 Caster grows ½ inch each day
+0997 Caster grows 1/2 inch each day
 0998 Caster grows a finger on each foot
 0999 Caster grows a third eye in the center of his forehead 
 1000 Caster grows a third eye that can see the Ethereal Plane 
@@ -1061,8 +1061,8 @@
 1061 Caster hates next person who meets him for the first time
 1062 Caster hates the next person he mentions by name
 1063 Caster head is invisible from his cheeks up
-1064 Caster heals ½ normal rate but takes ½ damage from attacks 
-1065 Caster heals ½ normal rate but takes 2X damage from attacks 
+1064 Caster heals 1/2 normal rate but takes 1/2 damage from attacks 
+1065 Caster heals 1/2 normal rate but takes 2X damage from attacks 
 1066 Caster heals 2X normal rate but takes 2X damage from attacks 
 1067 Caster hears celestial music whenever he casts a spell
 1068 Caster hears echoes when people speak to him
@@ -1275,7 +1275,7 @@
 1275 Caster is pursued by flies and vultures as if he were carrion
 1276 Caster is pursued by groupies and wanna-bees
 1277 Caster is randomly teleported 10 miles (50% chance Up or Down) 
-1278 Caster is reduced to ½ strength when exposed to direct sunlight 
+1278 Caster is reduced to 1/2 strength when exposed to direct sunlight 
 1279 Caster is reduced to 1 Hit Point
 1280 Caster is reduced to Level One for 5 turns
 1281 Caster is refreshed as from a good night's sleep
@@ -1614,8 +1614,8 @@
 1614 Caster shouts profanity in the presence of royalty
 1615 Caster shows all signs of having been struck by lightning
 1616 Caster shows no reflection in mirrors
-1617 Caster shrinks ½ inch each day
-1618 Caster shrinks by ½ each turn while exposed to direct sunlight
+1617 Caster shrinks 1/2 inch each day
+1618 Caster shrinks by 1/2 each turn while exposed to direct sunlight
 1619 Caster shrinks by 10%
 1620 Caster shrinks by 10% for every 10% of his hit points he loses
 1621 Caster shrinks to 1/10 his height while invisible
@@ -2091,7 +2091,7 @@
 2091 Caster wakes each day covered by soft, newly-grown moss
 2092 Caster wakes each day desperate for a drink of water
 2093 Caster wakes each day entangled by overgrown grass
-2094 Caster wakes each day ethereal; takes 1d4-½ hours to reform
+2094 Caster wakes each day ethereal; takes 1d4-1/2 hours to reform
 2095 Caster wakes each day in a pile of broken glass
 2096 Caster wakes each day lying north-to-south
 2097 Caster wakes each day naked, clothes hanging in a tall tree 
@@ -2195,7 +2195,7 @@
 2195 Caster's eyelids turn invisible
 2196 Caster's eyes appear 50% larger than they really are 
 2197 Caster's eyes appear to have tiny fish swimming in them 
-2198 Caster's eyes shrink to ½ their size
+2198 Caster's eyes shrink to 1/2 their size
 2199 Caster's face is tattooed to resemble the face of a clock
 2200 Caster's features appear melted like hot wax
 2201 Caster's feet are trapped in concrete blocks
@@ -2278,7 +2278,7 @@
 2278 Caster's name is a racist slur in some demihuman tongue 
 2279 Caster's name is actually the Dwarfish word for feces 
 2280 Caster's neck bears a scar as though he was once hanged 
-2281 Caster's neck shortens to ½ its length
+2281 Caster's neck shortens to 1/2 its length
 2282 Caster's next 1d4 spells allow no Saving Throws
 2283 Caster's normal body temperature is now 112° Fahrenheit 
 2284 Caster's normal body temperature is now 74° Fahrenheit 
@@ -2402,7 +2402,7 @@
 2402 Caster's arms become rubbery like tentacles
 2403 Caster's arms begin flapping like a dragonfly's wings
 2404 Caster's arms elongate like those of an ape
-2405 Caster's arms elongate to 1½ times their normal length
+2405 Caster's arms elongate to 11/2 times their normal length
 2406 Caster's arms turn into wings like a dragonfly's 
 2407 Caster's arms turn into wings like a sparrow's 
 2408 Caster's arms turn to pectoral fins
@@ -2532,7 +2532,7 @@
 2532 Caster's boots seem red-hot to anyone else touching them 
 2533 Caster's boots sever any feet inside them from the wearer's leg 
 2534 Caster's boots shine like beacons after twilight
-2535 Caster's boots shrink in size by ½
+2535 Caster's boots shrink in size by 1/2
 2536 Caster's boots smell like carrion
 2537 Caster's boots smell like fire and brimstone
 2538 Caster's boots smell like lilacs
@@ -2967,7 +2967,7 @@
 2967 Caster's legs can double their length once per day 
 2968 Caster's legs fuse into one
 2969 Caster's legs merge into a fish tail like a merman's 
-2970 Caster's legs shorten to ½ their normal length 
+2970 Caster's legs shorten to 1/2 their normal length 
 2971 Caster's legs tie in a knot
 2972 Caster's legs turn to tree trunks and take root
 2973 Caster's legs vanish d6 rounds; body falls to ground, no damage
@@ -2979,7 +2979,7 @@
 2979 Caster's limbs change proportion to match those of an elephant 
 2980 Caster's limbs change proportion to match those of an octopus 
 2981 Caster's little fingers become opposable like thumbs
-2982 Caster's long bones (femur, radius, etc) shrink by ½
+2982 Caster's long bones (femur, radius, etc) shrink by 1/2
 2983 Caster's lower jaw vanishes d10 rounds; speech impossible 
 2984 Caster's mount becomes a unicorn; departs to nearest woods 
 2985 Caster's mount becomes an ostrich, keeping original attributes 
@@ -3159,7 +3159,7 @@
 3159 Caster's principal weapon negates darkness in a 10 foot radius 
 3160 Caster's principal weapon negates light in a 10 foot radius 
 3161 Caster's principal weapon seems to detect evil everywhere 
-3162 Caster's principal weapon shrinks to ½ its size
+3162 Caster's principal weapon shrinks to 1/2 its size
 3163 Caster's principal weapon smells of rotting meat
 3164 Caster's principal weapon teleports to his principal dwelling
 3165 Caster's principal weapon turns into a shovel 
@@ -3475,7 +3475,7 @@
 3475 Fire Elemental resides in caster's lungs; d10 HP damage/round 
 3476 Fog Cloud spews from caster's mouth when he tries to speak 
 3477 Food tastes like bile to the caster
-3478 For d10 days, caster need only eat ½ the normal amount of food 
+3478 For d10 days, caster need only eat 1/2 the normal amount of food 
 3479 For d4 hours, caster's touch turns all precious metal to lead 
 3480 For d4 turns, caster's touch turns all solid matter to gold
 3481 For d6 days, caster can find secret doors 9 out of 10 times 
@@ -3694,7 +3694,7 @@
 3694 Next horse ridden by caster is a mechanical automaton  
 3695 Next horse ridden by caster is as wild as a free mustang 
 3696 Next horse ridden by caster is embarrassingly flatulent  
-3697 Next horse ridden by caster shrinks to ½ its size
+3697 Next horse ridden by caster shrinks to 1/2 its size
 3698 Next horse ridden by caster sings country music
 3699 Next horse ridden by caster throws him for 1d10 hit points
 3700 Next horse ridden by caster tries to walk on two legs
@@ -3989,7 +3989,7 @@
 3989 When caster draws his weapon birds circle his head
 3990 When caster draws his weapon electricity sizzles in the air 
 3991 When caster draws his weapon he has second thoughts 
-3992 When caster draws his weapon he shrinks to ½ his height 
+3992 When caster draws his weapon he shrinks to 1/2 his height 
 3993 When caster draws his weapon his allies get a morale boost 
 3994 When caster draws his weapon his hair stands on end
 3995 When caster draws his weapon his hands are coated in butter 
@@ -4141,7 +4141,7 @@
 4141 All target's attribute scores drop to equal his worst score
 4142 All target's attribute scores rise to equal his best score
 4143 All target's clothing not currently worn grows to 2X its size 
-4144 All target's clothing not currently worn shrinks to ½ its size 
+4144 All target's clothing not currently worn shrinks to 1/2 its size 
 4145 All target's gems become enchanted with Continual Light 
 4146 All ten of target's fingers are now on his dominant hand 
 4147 All the bones disappear from the target's hands and feet 
@@ -4189,7 +4189,7 @@
 4189 Any potions carried by target become poisonous
 4190 Any potions carried by target carry the intended spell effect
 4191 Any resurrections thus far used on target are negated
-4192 Any rings worn by target shrink in diameter by ½
+4192 Any rings worn by target shrink in diameter by 1/2
 4193 Any small item target needs is 30% likely to be in his pocket 
 4194 Any spells target has memorized discharge upon random targets 
 4195 Any water carried by target afflicts its imbiber with dysentery 
@@ -4328,7 +4328,7 @@
 4328 Fire Elemental resides in target's lungs; d10 HP damage/round 
 4329 Fog Cloud spews from target's mouth when he tries to speak 
 4330 Food tastes like bile to the target
-4331 For d10 days, target need only eat ½ the normal amount of food 
+4331 For d10 days, target need only eat 1/2 the normal amount of food 
 4332 For d10 days, target's weight is doubled; MR reduced to 50% 
 4333 For d10 days, target's weight is quadrupled; MR reduced to 25% 
 4334 For d10 days, target's weight is squared; MR reduced to 1
@@ -4353,7 +4353,7 @@
 4353 Half of target's body wishes to go in the opposite direction 
 4354 Half of target's body randomly teleports; Save vs Death or die 
 4355 Half of target's body turns invisible for 1d10 rounds
-4356 Half of target's body turns to sodium, the other ½ turns to ice
+4356 Half of target's body turns to sodium, the other 1/2 turns to ice
 4357 Half(left or right) of target's footprints disappear
 4358 Half-either front or back-of target's clothing is invisible
 4359 Healing efforts have a 20% to inflict damage on target
@@ -4759,8 +4759,8 @@
 4759 Target and allies are teleported d6 miles in random direction 
 4760 Target and allies are Turned as Undead for d6 rounds each 
 4761 Target and allies cannot harm caster or allies for d4 rounds 
-4762 Target and allies lose ½ their hit points
-4763 Target and allies regain ½ their hit points lost
+4762 Target and allies lose 1/2 their hit points
+4763 Target and allies regain 1/2 their hit points lost
 4764 Target and ally swap personae; ally thinks he is the target
 4765 Target and alternate Prime Material counterpart exchange places
 4766 Target and caster exchange eyes 
@@ -4818,7 +4818,7 @@
 4818 Target assumes the aircraft "crash position"
 4819 Target attacks himself with his own weapon for 1d10 rounds
 4820 Target attracts all Undead within 1 mile of him 
-4821 Target attracts lightning and electricity (Save at ½) 
+4821 Target attracts lightning and electricity (Save at 1/2) 
 4822 Target attracts maggots, lice, and rot grubs
 4823 Target attracts moths like a flame
 4824 Target attracts moths like a flame whenever he speaks
@@ -5006,7 +5006,7 @@
 5006 Target can kill with a touch but is 80% likely to die as well 
 5007 Target can make his voice issue from some place nearby 
 5008 Target can make spells function without visible effect  
-5009 Target can memorize spells in ½ the normal required time 
+5009 Target can memorize spells in 1/2 the normal required time 
 5010 Target can mimic animal noises with remarkable skill
 5011 Target can move at 3X normal speed if naked and unencumbered
 5012 Target can no longer bend his wrists
@@ -5318,7 +5318,7 @@
 5318 Target experiences vertigo whenever he looks at the moon
 5319 Target explodes and dies (Save vs Death to prevent explosion) 
 5320 Target explodes as a Fireball of Hit Dice equal to 2x his Level 
-5321 Target explodes permanently when hit points fall to ½ total 
+5321 Target explodes permanently when hit points fall to 1/2 total 
 5322 Target explodes under every Full Moon; reforms at dawn 
 5323 Target explodes; reforms 2d20 turns later unharmed
 5324 Target faints at the sight of his own blood 
@@ -5462,7 +5462,7 @@
 5462 Target grabs his ankles and can't let go until tomorrow 
 5463 Target greatly desires to cross the nearest stream or river 
 5464 Target growls like a lion whenever he is upset
-5465 Target grows ½ inch each day
+5465 Target grows 1/2 inch each day
 5466 Target grows a finger on each foot
 5467 Target grows a third eye in the center of his forehead 
 5468 Target grows a third eye that can see the Ethereal Plane 
@@ -5537,8 +5537,8 @@
 5537 Target hates next person who meets him for the first time
 5538 Target hates the next person he mentions by name
 5539 Target head is invisible from his cheeks up
-5540 Target heals ½ normal rate but takes ½ damage from attacks 
-5541 Target heals ½ normal rate but takes 2X damage from attacks 
+5540 Target heals 1/2 normal rate but takes 1/2 damage from attacks 
+5541 Target heals 1/2 normal rate but takes 2X damage from attacks 
 5542 Target heals 2X normal rate but takes 2X damage from attacks 
 5543 Target hears echoes when people speak to him
 5544 Target hears through his nose and smells through his ears
@@ -6076,7 +6076,7 @@
 6076 Target shouts profanity in the presence of royalty
 6077 Target shows all signs of having been struck by lightning
 6078 Target shows no reflection in mirrors
-6079 Target shrinks ½ inch each day
+6079 Target shrinks 1/2 inch each day
 6080 Target shrinks by 10%
 6081 Target shrinks by 10% for every 10% of his hit points he loses
 6082 Target shrinks to 1/10 his height while invisible
@@ -6547,7 +6547,7 @@
 6547 Target wakes each day covered with snow 
 6548 Target wakes each day covered with spiders
 6549 Target wakes each day entangled by overgrown grass
-6550 Target wakes each day ethereal; takes 1d4-½ hours to reform
+6550 Target wakes each day ethereal; takes 1d4-1/2 hours to reform
 6551 Target wakes each day facing north
 6552 Target wakes each day half-sunken into the ground
 6553 Target wakes each day in a giant toad's mouth
@@ -6660,7 +6660,7 @@
 6660 Target's eyelids turn invisible
 6661 Target's eyes appear 50% larger than they really are 
 6662 Target's eyes appear to have tiny fish swimming in them 
-6663 Target's eyes shrink to ½ their size
+6663 Target's eyes shrink to 1/2 their size
 6664 Target's face is tattooed to resemble the face of a clock
 6665 Target's features appear melted like hot wax
 6666 Target's feet are trapped in concrete blocks
@@ -6747,7 +6747,7 @@
 6747 Target's name is actually the Dwarfish word for feces 
 6748 Target's nasal cavity is stuffed full of pepper
 6749 Target's neck bears a scar as though he was once hanged
-6750 Target's neck shortens to ½ its length
+6750 Target's neck shortens to 1/2 its length
 6751 Target's normal body temperature is now 112° Fahrenheit 
 6752 Target's normal body temperature is now 74° Fahrenheit 
 6753 Target's nose and mouth switch places
@@ -6793,7 +6793,7 @@
 6793 Target's skull is hard enough to act as a helmet; -1 to AC
 6794 Target's skull is spongy and soft for 1d10 rounds 
 6795 Target's smile puts people in mind of a shark 
-6796 Target's spine shortens to ½ its length
+6796 Target's spine shortens to 1/2 its length
 6797 Target's spine, ribs, and skull are strong as steel
 6798 Target's staff turns into a saxophone
 6799 Target's stomach rumbles when in the presence of royalty
@@ -6869,8 +6869,8 @@
 6869 Target's arms begin flapping like a dragonfly's wings 
 6870 Target's arms disappear; hands are attached to shoulders 
 6871 Target's arms elongate like those of an ape
-6872 Target's arms elongate to 1½ times their normal length
-6873 Target's arms shrink to ½ their normal length
+6872 Target's arms elongate to 11/2 times their normal length
+6873 Target's arms shrink to 1/2 their normal length
 6874 Target's arms start bludgeoning him; 1d4 HP each per round
 6875 Target's arms tie themselves in a knot
 6876 Target's arms try to strangle him
@@ -7242,13 +7242,13 @@
 7242 Target's feet levitate; target is suspended in air, feet-first
 7243 Target's feet rotate 180°
 7244 Target's feet rotate 90°
-7245 Target's feet shrink to ½ normal size; MR cut to ½ normal
+7245 Target's feet shrink to 1/2 normal size; MR cut to 1/2 normal
 7246 Target's feet sprout wings; function like Boots of Flying 
 7247 Target's feet take root; Movement Rate drops to zero 
 7248 Target's feet try to out-pace each other
 7249 Target's feet try to walk in opposite directions
 7250 Target's feet turn ethereal
-7251 Target's feet turn to lead; Movement Rate drops to ½ normal
+7251 Target's feet turn to lead; Movement Rate drops to 1/2 normal
 7252 Target's fingernails become carpenter's nails
 7253 Target's fingers and toes switch places
 7254 Target's fingers turn 90°; somatic components impossible 
@@ -7414,7 +7414,7 @@
 7414 Target's legs can double their length once per day
 7415 Target's legs fuse into one
 7416 Target's legs merge into a fish tail like a merman's 
-7417 Target's legs shorten to ½ their normal length 
+7417 Target's legs shorten to 1/2 their normal length 
 7418 Target's legs tie in a knot
 7419 Target's legs turn to tree trunks and take root
 7420 Target's legs vanish d6 rounds; body falls to ground, no damage
@@ -7425,7 +7425,7 @@
 7425 Target's limbs change proportion to match those of a starfish
 7426 Target's limbs change proportion to match those of an elephant 
 7427 Target's limbs change proportion to match those of an octopus 
-7428 Target's long bones (femur, radius, etc) shrink by ½
+7428 Target's long bones (femur, radius, etc) shrink by 1/2
 7429 Target's lower jaw vanishes d10 rounds; speech impossible 
 7430 Target's mind becomes trapped in nearest precious gem 
 7431 Target's most hated enemy appears before target
@@ -7556,7 +7556,7 @@
 7556 Target's principal weapon negates darkness in a 10 foot radius 
 7557 Target's principal weapon negates light in a 10 foot radius 
 7558 Target's principal weapon seems to detect evil everywhere 
-7559 Target's principal weapon shrinks to ½ its size
+7559 Target's principal weapon shrinks to 1/2 its size
 7560 Target's principal weapon smells of rotting meat
 7561 Target's principal weapon teleports to his principal dwelling 
 7562 Target's principal weapon triples in mass:-6 ToHit, +6 damage 
@@ -7988,7 +7988,7 @@
 7988 When target draws his weapon birds circle his head
 7989 When target draws his weapon electricity sizzles in the air 
 7990 When target draws his weapon he has second thoughts 
-7991 When target draws his weapon he shrinks to ½ his height 
+7991 When target draws his weapon he shrinks to 1/2 his height 
 7992 When target draws his weapon his allies get a morale boost 
 7993 When target draws his weapon his hair stands on end
 7994 When target draws his weapon his hands are coated in butter 

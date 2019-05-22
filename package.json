@@ -1,0 +1,28 @@
+{
+  "name": "magic_generator",
+  "version": "1.0.0",
+  "description": "A tool for dungeon masters to create wild magic",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Marco-Pagani/wild-magic-generator"
+  },
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha tools/server.test.js",
+    "start": "node server.js"
+  },
+  "author": "Marco Pagani",
+  "license": "MIT",
+  "devDependencies": {
+    "should": "^7.1.1"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "express": "^4.16.3",
+    "morgan": "^1.9.1",
+    "body-parser": "^1.19.0",
+    "mongoose": "^5.1.0",
+    "mocha": "^5.2.0",
+    "request": "^2.67.0"
+  }
+}
