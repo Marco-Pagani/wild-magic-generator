@@ -5,8 +5,8 @@ public class makeJSON {
 
     public static void main(String args[]) {
 
-        String fileName = "Effect Fixed.txt";
-        String outFile = "table1_2.json";
+        String fileName = "Effect Table 2.0.txt";
+        String outFile = "table2_0.json";
 
         // This will reference one line at a time
         String line = null;

@@ -12,7 +12,6 @@
     "start": "node server.js"
   },
   "author": "Marco Pagani",
-  "license": "MIT",
   "devDependencies": {
     "should": "^7.1.1"
   },
