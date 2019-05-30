@@ -1,4 +1,4 @@
-var magic = require('server.controller.js'),
+var magic = require('./server.controller'),
     express = require('express'),
     router = express.Router();
 

@@ -8,7 +8,7 @@ var path = require('path'),
 
 module.exports.init = function() {
   //connect to database
-  mongoose.connect(config.db.uri, {useMongoClient:true});
+  mongoose.connect(config.db.uri);
   const db = mongoose.connection;
   db.on('error', console.error.bind(console, 'could not connect to db'));
   db.once('open', function callback () {
