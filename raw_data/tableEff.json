@@ -1,0 +1,402 @@
+[
+{
+"index": "01",
+"text": "10d100 hours have passed"
+},
+{
+"index": "02",
+"text": "1d4 turns have passed per level of the caster"
+},
+{
+"index": "03",
+"text": "He has attained fluency in 1d4 additional languages"
+},
+{
+"index": "04",
+"text": "He has attained fluency in one additional language"
+},
+{
+"index": "05",
+"text": "He has been awarded a title by royalty"
+},
+{
+"index": "06",
+"text": "He has been branded with a hot iron like a bull"
+},
+{
+"index": "07",
+"text": "He has been formally pardoned by the king"
+},
+{
+"index": "08",
+"text": "He has been reduced to one hit point"
+},
+{
+"index": "09",
+"text": "He has been resurrected"
+},
+{
+"index": "10",
+"text": "He has been stabbed by a silver weapon"
+},
+{
+"index": "11",
+"text": "He has been tried and imprisoned for heresy"
+},
+{
+"index": "12",
+"text": "He has bested 10d10 warriors in single combat"
+},
+{
+"index": "13",
+"text": "He has bought a hugely expensive home and burned it down"
+},
+{
+"index": "14",
+"text": "He has broken every finger on one of his hands"
+},
+{
+"index": "15",
+"text": "He has built 2d10 snowmen"
+},
+{
+"index": "16",
+"text": "He has burned down his current home"
+},
+{
+"index": "17",
+"text": "He has burned himself for 2d20 total hit points of fire damage"
+},
+{
+"index": "18",
+"text": "He has carried a gallon of water from the sea to this spot"
+},
+{
+"index": "19",
+"text": "He has carried a stone from this spot to the sea"
+},
+{
+"index": "20",
+"text": "He has carved his full name in 10d10 different trees"
+},
+{
+"index": "21",
+"text": "He has circumnavigated the globe without using magic to do so"
+},
+{
+"index": "22",
+"text": "He has composed 3d4 sonnets"
+},
+{
+"index": "23",
+"text": "He has cut off 1d4 fingers"
+},
+{
+"index": "24",
+"text": "He has cut off his own ear"
+},
+{
+"index": "25",
+"text": "He has destroyed every book that he owns"
+},
+{
+"index": "26",
+"text": "He has destroyed every table within 1d4 miles"
+},
+{
+"index": "27",
+"text": "He has destroyed his most prized possession"
+},
+{
+"index": "28",
+"text": "He has dug a functioning and productive well on this spot"
+},
+{
+"index": "29",
+"text": "He has eaten 1,000 gold pieces worth of gold"
+},
+{
+"index": "30",
+"text": "He has eaten 1d4 pounds of soil"
+},
+{
+"index": "31",
+"text": "He has eaten 1d4X his weight in squirrels"
+},
+{
+"index": "32",
+"text": "He has eaten 2d6 pounds of cured leather"
+},
+{
+"index": "33",
+"text": "He has eaten an entire, live chicken"
+},
+{
+"index": "34",
+"text": "He has extracted 1d4 of his own teeth"
+},
+{
+"index": "35",
+"text": "He has felled 3d6 trees older than he is"
+},
+{
+"index": "36",
+"text": "He has forged a sword from meteoric iron"
+},
+{
+"index": "37",
+"text": "He has found a lost city hidden in the desert"
+},
+{
+"index": "38",
+"text": "He has founded a cult"
+},
+{
+"index": "39",
+"text": "He has gained a level"
+},
+{
+"index": "40",
+"text": "He has gone 10d10 days and nights without speaking"
+},
+{
+"index": "41",
+"text": "He has gone 1d4 weeks without exposure to direct sunlight"
+},
+{
+"index": "42",
+"text": "He has gone one full month without using magic or any magic items"
+},
+{
+"index": "43",
+"text": "He has had a personal audience with 1d6 different deities"
+},
+{
+"index": "44",
+"text": "He has hand-carved a marble statue of himself"
+},
+{
+"index": "45",
+"text": "He has hidden a cursed ruby beneath a tall mountain"
+},
+{
+"index": "46",
+"text": "He has imbibed 1d4 pints of lamp oil"
+},
+{
+"index": "47",
+"text": "He has imbibed 1d8 pints of his own blood"
+},
+{
+"index": "48",
+"text": "He has located and destroyed an artifact"
+},
+{
+"index": "49",
+"text": "He has lost a level"
+},
+{
+"index": "50",
+"text": "He has lost a total of 3d10 hit points due to burns from acid"
+},
+{
+"index": "51",
+"text": "He has lost a total of 3d10 hit points due to electrical damage"
+},
+{
+"index": "52",
+"text": "He has manually unearthed a diamond larger than his head"
+},
+{
+"index": "53",
+"text": "He has married"
+},
+{
+"index": "54",
+"text": "He has married, divorced, and remarried 1d4 times"
+},
+{
+"index": "55",
+"text": "He has produced an heir"
+},
+{
+"index": "56",
+"text": "He has razed the nearest wooden structure"
+},
+{
+"index": "57",
+"text": "He has remained awake for 4d6 consecutive days and nights"
+},
+{
+"index": "58",
+"text": "He has restored the nearest undead creature to life"
+},
+{
+"index": "59",
+"text": "He has retrieved a particular gold coin from the bottom of the sea"
+},
+{
+"index": "60",
+"text": "He has rid himself of all magic items"
+},
+{
+"index": "61",
+"text": "He has rid the nearest town of mice and rats"
+},
+{
+"index": "62",
+"text": "He has rolled less than his weight on 1d1000, one attempt per day"
+},
+{
+"index": "63",
+"text": "He has rolled less than his Wisdom on 1d100, one attempt per day"
+},
+{
+"index": "64",
+"text": "He has scaled the tallest mountian on the continent"
+},
+{
+"index": "65",
+"text": "He has sharpened every blade within 1d10 miles"
+},
+{
+"index": "66",
+"text": "He has shaved his head completely bald"
+},
+{
+"index": "67",
+"text": "He has shed 2d10 pounds"
+},
+{
+"index": "68",
+"text": "He has single-handedly dammed the nearest river"
+},
+{
+"index": "69",
+"text": "He has slain 1d10 undead"
+},
+{
+"index": "70",
+"text": "He has slain 1d6 kings"
+},
+{
+"index": "71",
+"text": "He has spent 1,000,000 gold pieces with nothing to show for it"
+},
+{
+"index": "72",
+"text": "He has spent 1d4 days and nights at the bottom of a deep well"
+},
+{
+"index": "73",
+"text": "He has spent a night in a sty with at least 3d10 pigs"
+},
+{
+"index": "74",
+"text": "He has spent a night in each of 2d6 dragonsí lairs"
+},
+{
+"index": "75",
+"text": "He has spent an entire night at the bottom of a lake"
+},
+{
+"index": "76",
+"text": "He has spent an entire night naked and unprotected in snow"
+},
+{
+"index": "77",
+"text": "He has spent an entire night sealed in a barrel"
+},
+{
+"index": "78",
+"text": "He has spent an entire night up to his neck in offal"
+},
+{
+"index": "79",
+"text": "He has stabbed himself with a weapon that he forged"
+},
+{
+"index": "80",
+"text": "He has swallowed 4d10 gallons of water"
+},
+{
+"index": "81",
+"text": "He has swallowed a pint of molten lead"
+},
+{
+"index": "82",
+"text": "He has tattooed 10d100 cryptic runes on his skin"
+},
+{
+"index": "83",
+"text": "He has thwarted an assassination attempt against the king"
+},
+{
+"index": "84",
+"text": "He has triggered 1d4 additional wild surges"
+},
+{
+"index": "85",
+"text": "He has visited both of the worldís magnetic poles"
+},
+{
+"index": "86",
+"text": "He has waded along the shores of 1d4 oceans"
+},
+{
+"index": "87",
+"text": "He has walked 10d100 miles"
+},
+{
+"index": "88",
+"text": "He has walked on the floor of the ocean"
+},
+{
+"index": "89",
+"text": "He has walked on the surface of the moon"
+},
+{
+"index": "90",
+"text": "He has walked the shores of hell"
+},
+{
+"index": "91",
+"text": "He has woven a six foot length of rope from his own hair"
+},
+{
+"index": "92",
+"text": "He has written his full name in 10d10 different books"
+},
+{
+"index": "93",
+"text": "He unearths 1d4 pounds of gold"
+},
+{
+"index": "94",
+"text": "His next birthday"
+},
+{
+"index": "95",
+"text": "His son produces an heir"
+},
+{
+"index": "96",
+"text": "One year and one day have passed"
+},
+{
+"index": "97",
+"text": "The current king has died"
+},
+{
+"index": "98",
+"text": "The next total lunar eclipse occurs"
+},
+{
+"index": "99",
+"text": "He has performed an exorcism on a member of the royal family"
+},
+{
+"index": "00",
+"text": "He has been bitten by 1d6 different lycanthropes"
+}
+]

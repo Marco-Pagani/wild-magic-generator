@@ -5,8 +5,8 @@ public class makeJSON {
 
     public static void main(String args[]) {
 
-        String fileName = "Effect Table 2.0.txt";
-        String outFile = "table2_0.json";
+        String fileName = "Duration Table.txt";
+        String outFile = "tableEff.json";
 
         // This will reference one line at a time
         String line = null;
@@ -25,8 +25,8 @@ public class makeJSON {
 
             while ((line = bufferedReader.readLine()) != null) {
                 
-                String number = line.substring(0, 4);
-                String rest = line.substring(5, line.length());
+                String number = line.substring(0, 2);
+                String rest = line.substring(3, line.length());
                 rest = rest.replace("\"", "\\\"");
                 
                 if(!first){
