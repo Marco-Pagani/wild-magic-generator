@@ -25,17 +25,14 @@ module.exports.init = function() {
   app.use(bodyParser.json());
 
   
-  /**TODO
-  Serve static files */
+  /* Serve static files */
   app.use(express.static('client')); // serve all static files available under client folder
   
-  /**TODO 
-  Use the listings router for requests to the api */
+  /* Use the listings router for requests to the api */
   app.use(magicksRouter);
 
 
-  /**TODO 
-  Go to homepage for all routes not specified */
+  /* Go to homepage for all routes not specified */
   app.use('*', function(req, res) {
     res.redirect('/');
   });

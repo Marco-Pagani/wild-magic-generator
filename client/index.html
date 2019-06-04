@@ -2,24 +2,78 @@
 <html>
 
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Wild Magic Generator</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css">
-    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Wild Magic Generator</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css">
+  <!---->
+    <link rel="stylesheet" href="odometer/themes/odometer-theme-train-station.css">
+  
+  <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
 </head>
 
 <body>
-    <section class="section">
-        <div class="container">
-            <h1 class="title">
-                Wild Magic Generator
-            </h1>
-            
-            <a class="button is-primary">Generate</a>
-            <p> </p>
-        </div>
-    </section>
+  <section class="section">
+    <div class="container has-text-centered">
+      <h1 class="title is-1">
+        Wild Magic Generator
+      </h1>
+      <h2 class="subtitle is-4">
+        A rollable version of Orrex's Net Libram of Magical Effects, plus user submitted content. A handy tool for DMs!
+      </h2>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="tabs is-boxed is-centered is-medium">
+      <ul>
+        <li class="is-active">
+          <a>
+            <span class="icon is-small"><i class="fas fa-dice" aria-hidden="true"></i></span>
+            <span>Roll</span>
+          </a>
+        </li>
+        <li>
+          <a>
+            <span class="icon is-small"><i class="fas fa-book" aria-hidden="true"></i></span>
+            <span>Lookup</span>
+          </a>
+        </li>
+        <li>
+          <a>
+            <span class="icon is-small"><i class="fas fa-paper-plane" aria-hidden="true"></i></span>
+            <span>Submit</span>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+
+        <div class="tabs is-toggle is-small">
+            <ul>
+              <li class="is-active">
+                <a onclick="togleTable(table.OLD);">1.2</a>
+              </li>
+              <li>
+                <a onclick="togleTable(table.NEW);">2.0</a>
+              </li>
+              <li>
+                <a onclick="togleTable(table.USERSUB);">user</a>
+              </li>
+            </ul>
+          </div>
+
+
+      <a class="button is-primary" onclick="generateMagic();">Roll Magic</a>
+      <div id="odometer" class="odometer">123</div>
+    </div>
+  </section>
 </body>
+
+<script src="odometer/odometer.min.js" async></script>
+<script src="magicGen.js" async></script>
 
 </html>
