@@ -20,7 +20,7 @@
     "express": "^4.16.3",
     "morgan": "^1.9.1",
     "body-parser": "^1.19.0",
-    "mongoose": "^5.1.0",
+    "mongoose": "^5.7.5",
     "mocha": "^5.2.0",
     "request": "^2.67.0"
   }
